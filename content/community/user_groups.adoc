@@ -39,14 +39,14 @@ Clojure fans generally form a plurality.
 *** ClojureScript NYC (Twitter: https://twitter.com/ClojureNYC[@ClojureNYC])
 *** https://www.meetup.com/Clojadelphia/[Clojadelphia - The Philadelphia User
 Group]
-*** Pittsburgh Clojure Users Group is part of http://www.codeandsupply.co/[Pittsburgh Code & Supply]
+*** Pittsburgh Clojure Users Group is part of https://www.codeandsupply.co/[Pittsburgh Code & Supply]
 ** Midwest
 *** https://www.meetup.com/Chicago-Clojure/[Chicago]
 *** https://cincyfp.wordpress.com/[Cincy Functional Programmers Group]
 *** Detroit Clojure Group
 *** https://www.meetup.com/clojure-mke/[Clojure MKE - Milwaukee, WI]
 *** https://www.meetup.com/Madison-Clojure-Meetup/[Madison Clojure Meetup] - Madison, WI
-*** http://clojure.mn/[Minnesota Clojure Users Group]
+*** https://www.meetup.com/clojuremn/[Minnesota Clojure Users Group]
 *** https://www.meetup.com/stl-clojure[St. Louis Clojure Meetup]
 *** http://www.columbusclojure.com[Columbus Clojure User Group]
 ** South
@@ -64,7 +64,7 @@ See mailing list thread for more info])
 *** https://www.meetup.com/Clojure-Co-Lab/[Clojure Co-Lab] - Columbia, South
 Carolina
 ** West
-*** http://seajure.github.com[Seajure - Seattle Clojure Group]
+*** https://seajure.github.com[Seajure - Seattle Clojure Group]
 *** https://www.meetup.com/clojerks/[Clojure user group in Portland]
 *** https://www.meetup.com/The-Bay-Area-Clojure-User-Group/[Bay Area Clojure User
 Group] - San Francisco (monthly meetup plus monthly
@@ -92,7 +92,7 @@ dojo); San Mateo (monthly meetup)
 ** France
 *** https://groups.google.com/group/clojure-fr/[French community mailing list]
 *** https://www.meetup.com/fr-FR/Paris-Clojure-User-Group/[Paris Clojure Meetup]
-*** http://clojure-lyon.eventbrite.fr/[Clojure Lyon EventBrite (France)]- local meetups registration
+*** https://clojure-lyon.eventbrite.fr/[Clojure Lyon EventBrite (France)]- local meetups registration
 *** https://www.meetup.com/riviera-scala-clojure[Riviera Clojure] (Join with
 Riviera Scala, (Twitter: https://twitter.com/riviera_func[@riviera_func])
 ** Germany
@@ -109,7 +109,7 @@ Riviera Scala, (Twitter: https://twitter.com/riviera_func[@riviera_func])
 ** Italia
 *** https://groups.google.com/group/clojure-italy[Italian Clojure User Group]
 ** Netherlands
-*** http://amsclj.nl/[The Dutch Clojure Meetup] (Twitter: https://twitter.com/amsclj[@amsclj])
+*** https://www.meetup.com/The-Dutch-Clojure-Meetup/[The Dutch Clojure Meetup] (Twitter: https://twitter.com/amsclj[@amsclj])
 ** Norway
 *** https://www.meetup.com/Oslo-Clojure-Meetup/[Oslo Clojure Meetup]
 ** Russia
@@ -137,10 +137,10 @@ Riviera Scala, (Twitter: https://twitter.com/riviera_func[@riviera_func])
 ** https://www.meetup.com/Clojure-Israel/[Clojure Israel]
 ** https://groups.google.com/forum/#!forum/clojuresg[Singapore Clojure User Group]
 ** http://clojure.kr[Clojure Korea]
-** http://clojure.tw[Clojure Taiwan]
+** https://clojure.tw[Clojure Taiwan]
 
 [[australianz]]
 == Australia / New Zealand
-** http://www.meetup.com/clj-syd/[Sydney Clojure User Group]
-** http://www.meetup.com/clj-melb/[Melbourne Clojure User Group]
-** http://www.meetup.com/Auckland-Clojure/[Auckland Clojure User Group]
+** https://www.meetup.com/clj-syd/[Sydney Clojure User Group]
+** https://www.meetup.com/clj-melb/[Melbourne Clojure User Group]
+** https://www.meetup.com/Auckland-Clojure/[Auckland Clojure User Group]
